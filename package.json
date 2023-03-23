@@ -1,5 +1,5 @@
 {
-  "name": "use-context",
+  "name": "redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
